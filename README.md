@@ -1,9 +1,8 @@
-
 # Proyecto Final Level Up
 
 En este repositorio encontrarás el trabajo completo que he realizado como parte de mi proyecto final, donde he explorado y analizado un conjunto de datos sobre accidentes cerebrovasculares (stroke) utilizando herramientas como Pandas, PandasSQL, Matplotlib y Seaborn. 
 
-### Secciones que encontrarás
+## Secciones que encontrarás
 
 1. **Carga y Exploración de Datos:** Carga y análsis inicial del dataset.
 
@@ -27,6 +26,6 @@ En este repositorio, encontrarás los scripts de Python utilizados para cada eta
 
 Gracias por revisar mi proyecto! Si tienes alguna pregunta o comentario, no dudes en contactarme.
 
-<img src='https://github.com/giulialvaro/tp_final_intro_python_cienca_de_datos/assets/143031921/7342b611-9e1e-4b78-ab25-f17c0a0908a2' width='200px' />
+<img src='https://github.com/giulialvaro/tp_final_intro_python_cienca_de_datos/assets/143031921/7342b611-9e1e-4b78-ab25-f17c0a0908a2' width='200px'/> 
 
 --- 
